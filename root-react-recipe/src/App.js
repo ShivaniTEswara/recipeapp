@@ -3,10 +3,10 @@ import React from 'react';
 import Search from './Components/Search';
 import Recipes from './Components/Recipes';
 import './App.css';
-<<<<<<< HEAD
+//<<<<<<< HEAD
 
-=======
->>>>>>> version 1
+//=======
+//>>>>>>> version 1
 const YOUR_API_KEY=process.env.REACT_APP_API_KEY;
 class App extends React.Component {
   
