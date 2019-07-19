@@ -1,7 +1,10 @@
 import React from 'react';
 import Recipe from './Recipe';
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> version 1
 function Recipes(props)
 {
      return(
